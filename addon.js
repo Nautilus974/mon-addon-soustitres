@@ -8,6 +8,9 @@ const BASE_URL = process.env.BASE_URL || `http://127.0.0.1:${PORT}`;
 const SOUS_TITRES = {
   "tt1904937": [ // Kaiji 2: The Ultimate Gambler
     { fichier: "kaiji2.fr.srt", langue: "fre" }
+  ],
+  "tt10423160": [ // Kaiji: Final Game
+    { fichier: "Kaiji_Final_Game_2020_FR.srt", langue: "fre" }
   ]
   // Pour ajouter un film : "ttXXXXXXX": [{ fichier: "nom.srt", langue: "fre" }],
 };
