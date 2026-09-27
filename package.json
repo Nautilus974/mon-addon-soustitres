@@ -1,0 +1,12 @@
+{
+  "name": "mon-addon-soustitres",
+  "version": "1.0.0",
+  "description": "Addon Stremio pour mes propres sous-titres",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
